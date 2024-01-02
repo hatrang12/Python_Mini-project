@@ -259,6 +259,7 @@ output_array= clean_array(input_array)
 print("Input Array: ", input_array)
 print("Output Array: ", output_array)
 ```
+
 - Input Array:  ['Panasonic ', ' pensonic', 'panasonic ', ' Haier', 'electrolux', 'Electrolux']
 - Output Array:  ['Electrolux', 'Haier', 'Panasonic', 'Pensonic']
 
